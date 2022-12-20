@@ -31,3 +31,18 @@ docker node ls
 ```
 docker service ls
 ```
+
+## Ответ  
+Скрин консоли сделать забыл, но для себя параллельно пилил мануал в вики, поэтому предоставляю скрины сервиса в облаке + выводы команд из задания 2 и 3, но уже в OneNote:  
+![screen1](pic1.png)
+![screen](pic2.png)
+![screen3](pic3.png)
+![screen4](pic4.png)
+![screen5](pic5.png)
+![screen6](pic6.png)
+![screen7](pic7.png)
+![screen8](pic8.png)
+![screen9](pic9.png)
+![screen10](pic10.png)
+![screen11](pic11.png)
+![screen12](pic12.png)
